@@ -18,6 +18,7 @@ This documentation explains how the package is built, how to integrate it into a
 | Document | What it covers |
 |----------|----------------|
 | [01 — Getting Started](01-Getting-Started.md) | Requirements, installation (Package Manager / git URL), placing model weights, first transcription. |
+| [08 — Scene Setup](08-Scene-Setup.md) | Hands-on companion to Getting Started: the GameObjects/components to create and how to wire them in the Inspector (minimal, microphone, and streaming scenes). |
 | [02 — Architecture](02-Architecture.md) | How the package is layered, the native binding, threading, the data flow from audio to text. |
 | [03 — API Reference](03-API-Reference.md) | Every public class, property, method, and event you'll use. |
 | [04 — Integration Guide](04-Integration-Guide.md) | Practical, copy-pasteable examples: transcribe a clip, record from mic, stream live, build subtitles, push-to-talk voice commands. |

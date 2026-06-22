@@ -95,4 +95,4 @@ Five sample scenes under `Assets/Samples/` demonstrate the main use cases. Each 
 | `4 - Subtitles` | `SubtitlesDemo.cs` | Token timestamps + per-word confidence rendered as colored subtitles synced to playback. |
 | `5 - Streaming` | `StreamingSampleMic.cs` | Real-time streaming transcription from the microphone with a sliding window. |
 
-Next: [02 — Architecture](02-Architecture.md).
+Next: [08 — Scene Setup](08-Scene-Setup.md) to build a scene step by step, or [02 — Architecture](02-Architecture.md) for how the package works internally.
