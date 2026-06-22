@@ -303,4 +303,6 @@ For downloaded models stored outside the project, set `IsModelPathInStreamingAss
 - **Set `enableTokens` / `tokensTimestamps` before transcribing** — they change what the inference produces.
 - **First call is slow** — model load happens once; warm it up during a loading screen with `await whisper.InitModel()`.
 
+For a complete, real scene that ties microphone streaming, VAD, matching, and gameplay together, see [09 — Worked Example: Mic Streaming Game](09-Example-Microphone-Streaming-Game.md).
+
 Next: [05 — Languages & Models](05-Languages-and-Models.md).

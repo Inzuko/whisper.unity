@@ -22,6 +22,7 @@ This documentation explains how the package is built, how to integrate it into a
 | [02 — Architecture](02-Architecture.md) | How the package is layered, the native binding, threading, the data flow from audio to text. |
 | [03 — API Reference](03-API-Reference.md) | Every public class, property, method, and event you'll use. |
 | [04 — Integration Guide](04-Integration-Guide.md) | Practical, copy-pasteable examples: transcribe a clip, record from mic, stream live, build subtitles, push-to-talk voice commands. |
+| [09 — Worked Example: Mic Streaming Game](09-Example-Microphone-Streaming-Game.md) | A full, real integration: voice-controlled spellcasting from live microphone streaming — scene, data, controller script, matching, tuning, mobile. |
 | [05 — Languages & Models](05-Languages-and-Models.md) | Choosing models, multilingual support, translation, and **how to "train"/fine-tune Whisper for a new language** and convert it for use here. |
 | [06 — Platforms & Deployment](06-Platforms-and-Deployment.md) | Platform notes, GPU acceleration, shipping model weights, building the C++ libraries from source. |
 | [07 — Troubleshooting](07-Troubleshooting.md) | Common errors and how to fix them. |

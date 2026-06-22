@@ -138,4 +138,4 @@ Often the quickest start is to copy a sample and strip what you don't need:
 - [ ] Streaming scenes: `StartStream()` is called before `StartRecord()`.
 - [ ] Mobile: microphone permission is set up (see [06 — Platforms & Deployment](06-Platforms-and-Deployment.md)).
 
-Next: [03 — API Reference](03-API-Reference.md) for every field these components expose, or [04 — Integration Guide](04-Integration-Guide.md) for the controller scripts.
+Next: [09 — Worked Example: Mic Streaming Game](09-Example-Microphone-Streaming-Game.md) for a complete, real microphone-streaming integration, [03 — API Reference](03-API-Reference.md) for every field these components expose, or [04 — Integration Guide](04-Integration-Guide.md) for the controller scripts.
